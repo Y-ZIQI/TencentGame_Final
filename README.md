@@ -18,3 +18,10 @@ Android：左摇杆移动，滑屏切视角，右下角按键分别为瞄准、�
 - 右下角分别为瞄准、攻击、拾取按钮
 - NPC死亡或团队复活次数归零游戏结束
 - 倒计时30秒后开始
+
+## 作业七：L8课程作业（渲染基础）
+
+链接：https://pan.baidu.com/s/1_rJ_Z48f65wTv3MIn-dYhA 
+提取码：0000
+
+文件夹下，Win平台exe文件在WindowsNoEditor文件夹下，视频文件test_video_7.mp4
